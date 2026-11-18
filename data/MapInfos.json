@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"小屋","order":2,"parentId":0,"scrollX":509.5,"scrollY":332},
+{"id":2,"expanded":true,"name":"最初の街","order":3,"parentId":1,"scrollX":657.5,"scrollY":436,"quick":false},
+{"id":3,"expanded":true,"name":"森","order":4,"parentId":2,"scrollX":509.5,"scrollY":564,"quick":false},
+{"id":4,"expanded":true,"name":"雪原","order":5,"parentId":3,"scrollX":509.5,"scrollY":324,"quick":false},
+{"id":5,"expanded":false,"name":"MAP005","order":1,"parentId":0,"scrollX":509.5,"scrollY":324,"quick":false},
+{"id":6,"expanded":true,"name":"街","order":9,"parentId":3,"scrollX":666.5,"scrollY":332,"quick":false},
+{"id":7,"expanded":true,"name":"劇場","order":8,"parentId":8,"scrollX":509.5,"scrollY":332,"quick":false},
+{"id":8,"expanded":true,"name":"酒場","order":7,"parentId":3,"scrollX":509.5,"scrollY":388,"quick":false},
+{"id":9,"expanded":false,"name":"街１","order":6,"parentId":3,"scrollX":674.5,"scrollY":324,"quick":false},
+{"id":10,"expanded":true,"name":"城の中","order":12,"parentId":11,"scrollX":509.5,"scrollY":388,"quick":false},
+{"id":11,"expanded":true,"name":"城の前","order":11,"parentId":3,"scrollX":690.5,"scrollY":876,"quick":false},
+{"id":12,"expanded":false,"name":"隠し部屋","order":10,"parentId":6,"scrollX":509.5,"scrollY":324,"quick":false},
+{"id":13,"expanded":true,"name":"最初の街","order":13,"parentId":10,"scrollX":509.5,"scrollY":446,"quick":false}
+]
